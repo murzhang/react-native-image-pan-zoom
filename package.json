@@ -42,7 +42,7 @@
   "_requiredBy": [
     "/react-native-image-zoom-viewer"
   ],
-  "_resolved": "https://registry.npm.taobao.org/react-native-image-pan-zoom/download/react-native-image-pan-zoom-2.0.16.tgz",
+  "_resolved": "https://registry.npmmirror.com/react-native-image-pan-zoom/download/react-native-image-pan-zoom-2.0.16.tgz",
   "_shasum": "84cf96b530da73141d25f10e1ee26c862444d4d2",
   "_shrinkwrap": null,
   "_spec": "react-native-image-pan-zoom@^2.0.16",
@@ -69,7 +69,7 @@
     "shasum": "84cf96b530da73141d25f10e1ee26c862444d4d2",
     "size": 17995,
     "noattachment": false,
-    "tarball": "http://registry.npm.taobao.org/react-native-image-pan-zoom/download/react-native-image-pan-zoom-2.0.16.tgz"
+    "tarball": "https://registry.npmmirror.com/react-native-image-pan-zoom/download/react-native-image-pan-zoom-2.0.16.tgz"
   },
   "gitHead": "aad699b93d9daf535df9779fc3e3616a96d19cc7",
   "homepage": "https://github.com/ascoders/react-native-image-zoom#readme",
